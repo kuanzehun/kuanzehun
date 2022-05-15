@@ -21,5 +21,6 @@ You can click the Preview link to take a look at your changes.
     "programming": ["JavaScript", "PHP", "C", "Python"],
   },
   "hobbies" : ["Programming", "Computers", "electronics"],
+  "work": "Maintenance Field Technician"
 }
 ```
